@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Pertemuan4</string>
     <string name="nama">Farisma Abiyyu Azzam Naufal</string>
+    <string name="alamat">Kretek, Bantul, Jogja</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="copy">Copyright, 2025</string>
 </resources>
